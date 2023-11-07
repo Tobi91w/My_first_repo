@@ -1,0 +1,5 @@
+Hello there, my name is Tobias Wallocha and I just started the following EPFL course: Applied Data Science: Machine Learning. 
+  I work for the company Roche Diagnostics in Penzberg Germany and I'm happy to take this chance to develop and optimize my knowledge in this field. My background in data analytics is well/moderate I guess, coding is more or less basic.
+  Since data anylysis is part of my work, I am used to look at different data sets using different software tools like SEEQ, Spotfire, JMP, ELN etc. Therefore I am used to handle raw data sets and most of the time I know what to do with the raw data and how I achive this.
+  But this is only true or possible, because I know the data, I have a certain expectation from the data which makes it often easy for me to see whats missing or wrong. This would be different to really big data sets or data sets that I'am unfamiliar with. 
+  In terms of coding, I would see myself as a beginner. I did some coding using python to fix smaller problems or to visualize some data, but that's it. When it came to model building like linear regression models, I used the software JMP.
