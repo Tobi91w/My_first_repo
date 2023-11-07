@@ -3,3 +3,6 @@ Hello there, my name is Tobias Wallocha and I just started the following EPFL co
   Since data anylysis is part of my work, I am used to look at different data sets using different software tools like SEEQ, Spotfire, JMP, ELN etc. Therefore I am used to handle raw data sets and most of the time I know what to do with the raw data and how I achive this.
   But this is only true or possible, because I know the data, I have a certain expectation from the data which makes it often easy for me to see whats missing or wrong. This would be different to really big data sets or data sets that I'am unfamiliar with. 
   In terms of coding, I would see myself as a beginner. I did some coding using python to fix smaller problems or to visualize some data, but that's it. When it came to model building like linear regression models, I used the software JMP.
+
+My expectation is to develop a basic understanding of how to use python for data analysis, visualization and how to implement machine learning algorithms. In my view the idea would be to have sound knowledge about how to
+approach big data sets, clean them properly and in the end have a well-understood basic for any further steps like using the modified data set as training data set for prediction models or validation purpose.  
